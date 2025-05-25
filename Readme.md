@@ -6,17 +6,17 @@ The Caimari organ at St. Augusti, Palma, Mallorca, is a rather large baroque ins
 
 Sonus Paradisi offers a [sample set for Hauptwerk](https://www.sonusparadisi.cz/en/organs/spain/palma-st-agusti.html). It's not as polished as others of modern instruments. The intonation, tuning, and volume of the pipes is not perfect, which creates a very pleasant sound.
 
-In this repository you'll find an organ definition file (ODF) and additional files so you can use the sample set with [Grand Orgue]([GitHub - GrandOrgue/grandorgue: GrandOrgue software](https://github.com/GrandOrgue/grandorgue)). It has initially been derived from the Hauptwerk ODF by using [OdfEdit]([GitHub - GrandOrgue/OdfEdit: A tool for GrandOrgue ODF edition, and Hauptwerk to GrandOrgue ODF conversion.](https://github.com/GrandOrgue/OdfEdit)). A lot of editing work was done, mainly tuning the pipes and adding a Simple Jamb to make the instrument more accessible to new users.
+In this repository you'll find an organ definition file (ODF) and additional files so you can use the sample set with [Grand Orgue](https://github.com/GrandOrgue/grandorgue). It has initially been derived from the Hauptwerk ODF by using [OdfEdit](https://github.com/GrandOrgue/OdfEdit). A lot of editing work followed, mainly tuning the pipes and adding a Simple Jamb to make the instrument more accessible to new users.
 
 ## Installation
 
-* Purchase the sampleset and install it either using Hauptwerk or extract the archives manually.
+* Purchase the [sample set for Hauptwerk](https://www.sonusparadisi.cz/en/organs/spain/palma-st-agusti.html) and install it either using Hauptwerk or extract the archives manually (you'll need the folders 000352, 000353, and 000354).
 
 * [Download](https://github.com/GrandOrgue/grandorgue/releases) and install GrandOrgue.
 
-* [Download]([Release InitialRelease · Christedge/PalmaOdfForGrandOrgue · GitHub](https://github.com/Christedge/PalmaOdfForGrandOrgue/releases/tag/InitialRelease)) this release and extract it.
+* [Download](https://github.com/Christedge/PalmaOdfForGrandOrgue/releases/tag/InitialRelease) this release and extract it.
 
-* Put all the extracted files in place. The structure is as follows:
+* Put all the extracted files in one place. The structure is as follows:
 
 * * 000352
   
